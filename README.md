@@ -20,3 +20,5 @@ npm install --save capture-for-video
      })    
 
 ```
+
+[github](https://github.com/shauiYang1/screenshot.git)
