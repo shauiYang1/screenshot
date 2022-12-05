@@ -1,0 +1,14 @@
+{
+  "name": "capture-for-video",
+  "version": "0.0.5",
+  "description": "屏幕获取（实现视频抓拍）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "capture"
+  ],
+  "author": "shuai.yang",
+  "license": "ISC"
+}
