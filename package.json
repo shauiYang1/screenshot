@@ -1,6 +1,6 @@
 {
   "name": "capture-for-video",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "屏幕获取（实现视频抓拍）",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "keywords": [
     "capture"
   ],
+  "git repository":"https://github.com/shauiYang1/screenshot.git",
   "author": "shuai.yang",
   "license": "ISC"
 }
